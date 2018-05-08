@@ -10,8 +10,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello World");
-            Console.ReadLine(); // polls for input 
+            Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
